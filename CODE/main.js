@@ -1,3 +1,4 @@
+// Step # 1.3
 // Get Reference to Canvas with id myCanvas which we defined preiously in HTML.
 const canvas =  document.getElementById("myCanvas");
 
@@ -6,3 +7,4 @@ canvas.height = window.innerHeight;
 
 // Set its width 200 Pixels
 canvas.width = 200;
+
